@@ -18,7 +18,6 @@
     "visualstudioexptteam.vscodeintellicode",
     "yzhang.markdown-all-in-one"
   ],
-  "dockerFile": "Dockerfile",
   "forwardPorts": [7170, 5082],
   "settings": {
     "terminal.integrated.shell.linux": "/usr/bin/zsh",
