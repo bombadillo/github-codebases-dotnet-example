@@ -19,8 +19,9 @@
     "yzhang.markdown-all-in-one"
   ],
   "forwardPorts": [7170, 5082],
+  "image": "mcr.microsoft.com/dotnet/sdk:7.0",
   "settings": {
-    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "terminal.integrated.shell.linux": "pwsh",
     "files.exclude": {
       "**/CODE_OF_CONDUCT.md": true,
       "**/LICENSE": true
